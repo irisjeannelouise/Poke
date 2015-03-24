@@ -1,0 +1,30 @@
+body {
+	width: 100%; 
+	padding: 0px;
+	background-image: url("http://auto.img.v4.skyrock.net/2830/74152830/pics/3013206745_2_3_fbkhQsdc.png");
+	opacity:1.2 ; 
+	
+}
+.body img{ 
+	height: 185px; width: 200px; float: center; 
+}
+
+.body table{
+
+	margin-top: 30px;
+	border-collapse: separate;
+	border-spacing: 70px;
+}
+.body table img:hover{
+width:210px;
+height:200px;
+}
+
+img span {
+	background-color: yellow;
+	font-size: 20px;
+}
+
+p { background-color: yellow;
+	font-family: "Pokemon Solid",Arial; font-size: 16px; text-align: center;
+}
